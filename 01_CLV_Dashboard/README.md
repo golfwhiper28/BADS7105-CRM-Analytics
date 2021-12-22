@@ -13,3 +13,4 @@ From the class, we learn that we should design has 3 components: Problem, Reason
 ## Overview Dashboard
 ![image](https://user-images.githubusercontent.com/71161635/147126694-ce13860b-fe26-4940-87bb-86c8c3d6dca7.jpg)
 
+In the section 1, users can find the summary detail of data (total spending, total customer and ticket size) by specific shop date.
