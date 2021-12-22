@@ -11,5 +11,5 @@ by using supermarket data from Dunnhumby.
 From the class, we learn that we should design has 3 components: Problem, Reason and Action.
 
 ## Overview Dashboard
-![image](https://user-images.githubusercontent.com/71161635/147124783-53093fbb-996d-41a2-a169-f85ad047320b.jpg
+![image](https://user-images.githubusercontent.com/71161635/147124783-53093fbb-996d-41a2-a169-f85ad047320b.jpg)
 
