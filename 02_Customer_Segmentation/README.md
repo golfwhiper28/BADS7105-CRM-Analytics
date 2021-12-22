@@ -9,6 +9,6 @@ we are assigned to develop the K-Means model of customer segmentation (create th
 ## Detail
 From the class, we learn how to interpreting K-Means result and using PCA to visulize clustering results.
 
-## Summary Dashboard
+## Summary Result
 
 
