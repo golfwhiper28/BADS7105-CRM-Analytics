@@ -12,9 +12,11 @@ From the class, we learn how to interpreting K-Means result and using PCA to vis
 ## Summary Result
 1)Create New Features
 ![image](https://user-images.githubusercontent.com/71161635/147187587-572e49d8-6741-45ba-b306-ba4683a0ad46.jpg)
+
 2)Model
 We are seperated the customers into 4 clusters
 ![model](https://user-images.githubusercontent.com/71161635/147188729-d23257ec-6a39-47ca-b21a-5b4abc01516b.png)
+
 3)Result
 ![totalvisits](https://user-images.githubusercontent.com/71161635/147189232-31a4b440-56d4-48bf-a30c-09c6ef60155f.png)
 ![totalspend](https://user-images.githubusercontent.com/71161635/147189241-d64bd9df-fe1f-4afe-805d-24d4df7345b7.png)
