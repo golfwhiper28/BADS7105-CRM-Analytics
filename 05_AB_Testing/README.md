@@ -36,4 +36,8 @@ From the class, we learn about how to perform A/B testing by using t-test, Chi-S
 ![image](https://user-images.githubusercontent.com/71161635/147281074-ab54d4e9-03e6-4707-a98f-f966cb4403c0.png)
 
 
+![image](https://user-images.githubusercontent.com/71161635/147281329-44708ebd-5647-438c-8918-73fc385d51b1.png)
+
+
+
 Summary: A ตอบสนองดีกว่า B ด้วยสัดส่วน 60:40 โดยที่สัดส่วนผลตอบสนองแบ่งตามเพศ อายุ และความชอบ ไม่ชอบ โดนัท ไม่มีกลุ่มไหนที่แตกต่างกัน
