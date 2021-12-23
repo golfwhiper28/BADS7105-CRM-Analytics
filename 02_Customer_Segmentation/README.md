@@ -18,6 +18,9 @@ We are seperated the customers into 4 clusters
 ![model](https://user-images.githubusercontent.com/71161635/147188729-d23257ec-6a39-47ca-b21a-5b4abc01516b.png)
 
 3)Result
+
+
+
 ![totalvisits](https://user-images.githubusercontent.com/71161635/147189779-b9e99001-e940-4f33-8917-95f85df99d8b.png)
 ![totalspend](https://user-images.githubusercontent.com/71161635/147189241-d64bd9df-fe1f-4afe-805d-24d4df7345b7.png)
 ![totaldays](https://user-images.githubusercontent.com/71161635/147189246-1b697558-b5c5-4958-a855-e8e08a22fa96.png)
