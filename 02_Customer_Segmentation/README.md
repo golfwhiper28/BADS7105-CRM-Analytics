@@ -14,6 +14,8 @@ From the class, we learn how to interpreting K-Means result and using PCA to vis
 ![image](https://user-images.githubusercontent.com/71161635/147187587-572e49d8-6741-45ba-b306-ba4683a0ad46.jpg)
 
 2)Model
+
+
 We are seperated the customers into 4 clusters
 ![model](https://user-images.githubusercontent.com/71161635/147188729-d23257ec-6a39-47ca-b21a-5b4abc01516b.png)
 
