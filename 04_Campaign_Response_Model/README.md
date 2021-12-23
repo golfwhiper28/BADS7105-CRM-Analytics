@@ -19,5 +19,4 @@ I try to improve the AUC score of model by running tensorflow (using adam optimi
 ![image](https://user-images.githubusercontent.com/71161635/147278997-ccdfddab-15d0-4326-9ba1-1b4c56efd04b.png)
 
 
-
 Reference for optimizer: https://keras.io/api/optimizers/
