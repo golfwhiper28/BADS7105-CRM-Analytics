@@ -21,7 +21,7 @@ From the class, we learn about how to perform regular expression function (searc
 ![image](https://user-images.githubusercontent.com/71161635/147333802-12ddb606-4d41-47ce-9d9b-a5f13f3bda6c.png)
 
 
--Increase remove words that are not specific words such as 'ร้า', 'ราคา','กก','''<br>''' to remove from raw data and filter Top_N_Word = 12
+-Increase remove words that are not specific words such as 'ร้า', 'ราคา','กก','< br >' to remove from raw data and filter Top_N_Word = 12
 
 
 ![image](https://user-images.githubusercontent.com/71161635/147333935-14fdf52e-fabe-4cd9-8c4d-14d48ed9c9ab.png)
