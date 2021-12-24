@@ -32,6 +32,7 @@ From the class, we learn about how to perform regular expression function (searc
 
 3)Result
 -We can separate the group of review into 3 clusters as below,
+
   Cluster1 "ร้านคาเฟ่น่ารักๆ" โดยลูกค้า review เกี่ยวกับร้านคาเฟ่ที่ขายกาแฟและเบเกอรรี่ เนื่องจากว่ามีความว่า กาแฟ, คาเฟ่, รี่
   
   Cluster2 "ร้านชานมไข่มุก" โดยลูกค้า review เกี่ยวกับร้านชานมไข่มุกไต้หวัน เนื่องจากว่ามีคำว่า ชา, นม, ไข่มุก และ ไต้หวัน
