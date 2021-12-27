@@ -16,7 +16,8 @@ From the class, we learn about the defination of churn, how to classify churned 
 1)Conditions for separating the customer types
 
 
-![image](https://user-images.githubusercontent.com/71161635/147447702-2bd1372f-558b-42b2-9794-1132b6634914.png)
+![image](https://user-images.githubusercontent.com/71161635/147447961-7f609760-c7ce-442c-9c9b-f3c0a7aae5f1.png)
+
 
 
 2)Target Final Table for Exploring with Data Studio
